@@ -1,0 +1,22 @@
+body {
+  background-color: #666;
+}
+canvas {
+  background-color: #fff;
+}
+div {
+  margin: auto;
+  height: 600px;
+  width: 600px;
+  display: flex;
+  flex-flow: column nowrap;
+}
+button {
+  padding: 5px;
+  border: none;
+  font-size: 24px;
+  background-color: rgb(196, 196, 196);
+}
+button:hover {
+  background-color: rgb(221, 221, 221);
+}
